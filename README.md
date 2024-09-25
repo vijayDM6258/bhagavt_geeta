@@ -1,6 +1,6 @@
 # departure_vm
 
-A new Flutter project.![Uploading oneui (2).png…]()
+A new Flutter project.
 
 
 ## Getting Started
