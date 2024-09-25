@@ -1,6 +1,7 @@
 # departure_vm
 
 A new Flutter project.
+![Desktop - 1](https://github.com/user-attachments/assets/e877b549-984d-4f47-95f8-4bce98cd46d3)
 
 ## Getting Started
 
